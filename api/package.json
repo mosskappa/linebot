@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
   "name": "line-bot-bridge",
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.18.2"
   }
-=======
-{
-  "name": "line-bot-bridge",
-  "version": "1.0.0",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
->>>>>>> 1378f029c3af3dcd13bacc6c7d37a0c19ad5b6b6
 }
